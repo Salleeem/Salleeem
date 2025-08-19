@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Mateus</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">Um desenvolvedor fullstack do Brasil</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salleeem&label=Visualizações&color=0e75b6&style=flat" alt="salleeem" />
