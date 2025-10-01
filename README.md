@@ -9,6 +9,15 @@ Atualmente trabalho e estudo principalmente com **Java (Spring Boot), Frontend W
 
 ---
 
+## 🎓 Formação  
+
+- **Engenharia da Computação** – UNIVESP *(cursando)*  
+- **Técnico em Análise e Desenvolvimento de Sistemas** – SENAI *(concluído)*  
+
+---
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas  
 
 **Frontend**  
@@ -28,7 +37,7 @@ Atualmente trabalho e estudo principalmente com **Java (Spring Boot), Frontend W
 
 ## 📂 Projetos em Destaque  
 
-- [**Em desenvolvimento...)  
+- Em desenvolvimento...
 
 
 ---
