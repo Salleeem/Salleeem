@@ -3,9 +3,11 @@
 
 ---
 
-## 🚀 Sobre mim  
-Sou um desenvolvedor **Fullstack** apaixonado por tecnologia e pela criação de soluções escaláveis.  
-Atualmente trabalho e estudo principalmente com **Java (Spring Boot), Frontend Web e Banco de Dados**, sempre buscando evoluir para posições de **desenvolvedor backend**.  
+## 🚀 Sobre mim
+Sou um desenvolvedor **Fullstack** focado em criar soluções eficientes e escaláveis.  
+Gosto de aprender novas tecnologias, resolver problemas complexos e transformar ideias em código funcional.  
+Tenho experiência princiapalmente com **Java, Spring Boot, MySQL e desenvolvimento web**, e sempre busco melhorar minhas habilidades tanto no **backend** quanto no **frontend**.  
+Meu objetivo é crescer como profissional, colaborar em projetos e entregar resultados de qualidade.  
 
 ---
 
@@ -14,22 +16,19 @@ Atualmente trabalho e estudo principalmente com **Java (Spring Boot), Frontend W
 - **Engenharia da Computação** – UNIVESP *(cursando)*  
 - **Técnico em Análise e Desenvolvimento de Sistemas** – SENAI *(concluído)*  
 
----
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
 
-**Frontend**  
+## 🛠️ Tecnologias & Ferramentas  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-
-**Backend**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
-
-**Ferramentas**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
 
